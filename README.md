@@ -29,6 +29,9 @@ This repository is our **public handbook** — a living collection of our operat
 - [Transparency Charter](Governance/Transparency%20Charter.md)
 - [Advisory Circles](Governance/Circles.md)
 - [Ethics Policy](Governance/Ethics%20Policy.md)
+- [Growth Strategy](Governance/Growth%20Strategy.md)
+- [Risk Management](Governance/Risk%20Management.md)
+- [Operations Plan](Governance/Operations%20Plan.md)
 
 ### 🌿 Community
 - [Manifesto](Community/Manifesto.md)
@@ -38,11 +41,13 @@ This repository is our **public handbook** — a living collection of our operat
 ### 💻 Open Source
 - [Contributing](OpenSource/Contributing.md)
 - [Accessibility Standards](OpenSource/Accessibility.md)
+- [Technology Strategy](OpenSource/Technology%20Strategy.md)
 - [License](LICENSE)
 
 ### 💰 Finance
 - [Revenue Model](Finance/Revenue%20Model.md)
 - [Profit Allocation](Finance/Profit%20Allocation.md)
+- [Market Analysis](Finance/Market%20Analysis.md)
 - [Transparency Reports](Finance/Transparency%20Reports.md)
 
 ### 🧭 Meta
