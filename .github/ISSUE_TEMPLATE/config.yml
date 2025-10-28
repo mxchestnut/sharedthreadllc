@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🌐 Website
+  - name: 🔄 Use as Template
+    url: https://github.com/mxchestnut/sharedthreadllc/fork
+    about: Fork this repository to create your own transparency framework
+  - name: 🌐 Shared Thread Website
     url: https://sharedthread.co
-    about: Visit our main website for general information
-  - name: 💬 General Discussion
-    url: https://github.com/mxchestnut/sharedthreadllc/discussions
-    about: Ask questions and discuss ideas with the community
-  - name: 🔒 Security Issue
-    url: https://sharedthread.co/security
-    about: Report security vulnerabilities privately
-  - name: 📧 Direct Contact
+    about: Learn more about Shared Thread LLC
+  - name: � Documentation Questions
     url: https://sharedthread.co/contact
-    about: Contact us directly for private matters
+    about: Contact us if you have questions about using this template
+  - name: � Share Your Adaptation
+    url: https://sharedthread.co/contact
+    about: We'd love to hear how you've used this template!

@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Template](https://img.shields.io/badge/Use%20as-Template-blue.svg)](https://github.com/mxchestnut/sharedthreadllc/fork)
+
+> **🔄 Use as Template:** This repository serves as a reference for building transparent organizational operations. Feel free to [fork it](https://github.com/mxchestnut/sharedthreadllc/fork) and adapt it for your own organization!
 
 Welcome to **Shared Thread**, a transparent, public‑minded LLC dedicated to ethical technology, community infrastructure, and accessible systems design.
 
@@ -53,14 +56,17 @@ Browse the sections above to learn about our operations, values, and commitments
 
 **New here?** Start with our [Manifesto](Community/Manifesto.md) and [Community Guidelines](Community/Guidelines.md).
 
-## 🤝 Contributing
+**Want to adapt this?** This repository serves as a template for transparent organizational operations. You're welcome to fork it and customize it for your own organization.
 
-We welcome contributions that align with our values. See our [Contributing Guide](OpenSource/Contributing.md) to get started.
+## 🔄 Using This as a Template
 
-## 📞 Contact
+This repository is designed as a **reference and template** for other organizations building transparent, ethical operations. Feel free to fork this repository and adapt it for your own organization!
+
+## 📞 Contact & Usage
 
 - **Website:** [sharedthread.co](https://sharedthread.co)
-- **Issues:** Use GitHub Issues for questions or suggestions
+- **Questions about Shared Thread:** Contact us through our website
+- **Using this as a template:** Fork this repository and adapt it for your organization
 - **License:** Code is MIT, documentation is CC BY-SA 4.0 - see [License](LICENSE)
 
 ---

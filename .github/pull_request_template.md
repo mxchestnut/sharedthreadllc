@@ -1,5 +1,9 @@
 # Pull Request Template
 
+**Note:** This repository documents Shared Thread LLC's operations and serves as a template for other organizations. We are not accepting pull requests to this repository.
+
+**Want to improve this template?** Please fork this repository and make your improvements in your own copy. We'd love to hear how you've adapted this framework!
+
 ## 📋 Description
 Brief description of the changes in this PR.
 

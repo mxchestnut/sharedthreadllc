@@ -6,6 +6,10 @@ labels: ['bug']
 assignees: ''
 ---
 
+**Note:** This repository documents Shared Thread LLC's operations and is not accepting contributions. 
+
+If you're using this as a template for your own organization and found an issue, please fork this repository and fix it in your own copy. We'd love to hear how you've adapted this framework!
+
 ## 🐛 Bug Description
 A clear and concise description of what the bug is.
 

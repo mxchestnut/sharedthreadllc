@@ -6,6 +6,10 @@ labels: ['documentation']
 assignees: ''
 ---
 
+**Note:** This repository serves as a template for organizational transparency and is not accepting contributions to Shared Thread's specific documents.
+
+If you'd like to improve this template for others to use, please fork this repository and make your improvements in your own copy!
+
 ## 📚 Documentation Section
 Which section needs improvement?
 - [ ] README

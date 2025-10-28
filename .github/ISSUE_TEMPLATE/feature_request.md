@@ -6,6 +6,10 @@ labels: ['enhancement']
 assignees: ''
 ---
 
+**Note:** This repository documents Shared Thread LLC's operations and is not accepting contributions.
+
+If you have ideas for improving this transparency framework template, please fork this repository and implement them in your own copy! We'd love to hear about your adaptations.
+
 ## 💡 Feature Description
 A clear and concise description of the feature you'd like to see.
 
