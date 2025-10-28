@@ -41,7 +41,8 @@ This repository is our **public handbook** — a living collection of our operat
 - [License](LICENSE)
 
 ### 💰 Finance
-- [Business Plan v2 Overview](Finance/Business%20Plan%20V2.md)
+- [Revenue Model](Finance/Revenue%20Model.md)
+- [Profit Allocation](Finance/Profit%20Allocation.md)
 - [Transparency Reports](Finance/Transparency%20Reports.md)
 
 ### 🧭 Meta

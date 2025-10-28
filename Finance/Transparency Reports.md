@@ -19,3 +19,8 @@ All financial transparency at Shared Thread flows through two primary channels:
 - Growth and sustainability metrics
 
 Reports are published in our [Weave Reports](../Community/WeaveReports/) section and archived for historical reference.
+
+## Related Information
+
+- **[Revenue Model](Revenue%20Model.md)** — How we generate sustainable income
+- **[Profit Allocation](Profit%20Allocation.md)** — How we reinvest profits for maximum impact
