@@ -1,0 +1,63 @@
+name: Accessibility Check
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**/*.md'
+      - '**/*.html'
+
+jobs:
+  accessibility-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Check for alt text in images
+      run: |
+        echo "🔍 Checking for images without alt text..."
+        
+        # Find images without alt text
+        missing_alt=$(grep -r "!\[[ ]*\]" . --include="*.md" || true)
+        
+        if [ ! -z "$missing_alt" ]; then
+          echo "❌ Found images without alt text:"
+          echo "$missing_alt"
+          echo ""
+          echo "Please add descriptive alt text to all images for accessibility."
+          echo "Example: ![Description of image](image.png)"
+          exit 1
+        else
+          echo "✅ All images have alt text!"
+        fi
+        
+    - name: Check for accessibility-friendly link text
+      run: |
+        echo "🔍 Checking for accessibility-friendly link text..."
+        
+        # Find links with generic text
+        generic_links=$(grep -r "\[click here\]\|\[here\]\|\[read more\]\|\[more\]" . --include="*.md" || true)
+        
+        if [ ! -z "$generic_links" ]; then
+          echo "⚠️ Found links with generic text that may not be accessible:"
+          echo "$generic_links"
+          echo ""
+          echo "Consider using more descriptive link text that explains where the link goes."
+          echo "Instead of 'click here', use text like 'view the contributing guide' or 'download the report'."
+        else
+          echo "✅ Link text looks good!"
+        fi
+        
+    - name: Comment on PR with accessibility feedback
+      if: failure() && github.event_name == 'pull_request'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: '♿ **Accessibility Check**\n\nWe found some potential accessibility improvements in your changes. Please check the logs above for specific suggestions.\n\nAs an organization committed to inclusion, we want to ensure our content is accessible to everyone. Thank you for helping us maintain these standards!'
+          })

@@ -8,6 +8,6 @@ We welcome contributions that align with Shared Thread’s values.
 
 All contributors must agree to:
 - The Contributor License Agreement (CLA)
-- The Code of Conduct (see [[../Community/Guidelines.md]])
+- The Code of Conduct (see [Community Guidelines](../Community/Guidelines.md))
 
 We credit all contributors publicly in Weave Reports.
