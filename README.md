@@ -35,7 +35,7 @@ This repository is our **public handbook** — a living collection of our operat
 ### 💻 Open Source
 - [Contributing](OpenSource/Contributing.md)
 - [Accessibility Standards](OpenSource/Accessibility.md)
-- [License](OpenSource/LICENSE)
+- [License](LICENSE)
 
 ### 💰 Finance
 - [Business Plan v2 Overview](Finance/Business%20Plan%20V2.md)
@@ -61,7 +61,7 @@ We welcome contributions that align with our values. See our [Contributing Guide
 
 - **Website:** [sharedthread.co](https://sharedthread.co)
 - **Issues:** Use GitHub Issues for questions or suggestions
-- **License:** Code is MIT, documentation is CC BY-SA 4.0 - see [License](OpenSource/LICENSE.md)
+- **License:** Code is MIT, documentation is CC BY-SA 4.0 - see [License](LICENSE)
 
 ---
 

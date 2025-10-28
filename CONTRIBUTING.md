@@ -23,7 +23,7 @@ Thank you for your interest in contributing to Shared Thread! We welcome contrib
 
 ### Required Agreements
 - ✅ Agree to our [Code of Conduct](CODE_OF_CONDUCT.md)
-- ✅ Understand our dual licensing ([MIT](OpenSource/LICENSE) for code, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for documentation)
+- ✅ Understand our dual licensing ([MIT](LICENSE) for code, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for documentation)
 - ✅ Acknowledge that contributions may be credited in our public Weave Reports
 
 ### Development Setup
@@ -82,7 +82,7 @@ We're committed to fostering a welcoming, inclusive environment. All contributor
 ## 📜 License
 
 By contributing, you agree that your contributions will be licensed under the same terms as the project:
-- Code contributions: [MIT License](OpenSource/LICENSE)
+- Code contributions: [MIT License](LICENSE)
 - Documentation contributions: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
